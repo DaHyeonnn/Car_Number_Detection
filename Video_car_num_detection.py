@@ -129,7 +129,7 @@ def find_chars(contour_list):
 
         unmatched_contour = np.take(possible_contours, unmatched_contour_idx)
         
-        # 재귀
+        
         recursive_contour_list = find_chars(unmatched_contour)
         
         for idx in recursive_contour_list:
