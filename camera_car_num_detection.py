@@ -20,7 +20,7 @@ def find_chars(contour_list):
     MAX_AREA_DIFF = 0.5 # 번호마다 면적의 차이 -> 면적차이가 작아야 같은 글자로 인식
     MAX_W_DIFF = 0.8
     MAX_H_DIFF = 0.2
-    MIN_N_MATCHED = 3   # 이어진 번호 개수 -> 박스가 2개 이상이면 번호로 치기
+    MIN_N_MATCHED = 3   #이어진 번호 개수 -> 박스가 2개 이상이면 번호로 치기
 
     matched_result_idx = [] # 최종 인덱스 저장 리스트
     
