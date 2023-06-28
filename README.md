@@ -1,5 +1,7 @@
 # Car_Number_Detection
-
+### 기사
+- [인하대학교 정보마당](https://grad.inha.ac.kr/grad/5217/subview.do;jsessionid=CEF9BC2D4A0FFB3CADA5B97A9B85E6AD?enc=Zm5jdDF8QEB8JTJGYmJzJTJGZ3JhZCUyRjExOTUlMkY2ODcwMCUyRmFydGNsVmlldy5kbyUzRg%3D%3D)
+- [Newsis 기사](https://mobile.newsis.com/view.html?ar_id=NISX20220406_0001822833)
 ## camera_car_num_detection.py
 위 코드는 촬영 영상(ex. mp4)를 넣었을 때, 번호판을 추출 및 출력하는 코드이다.
 
